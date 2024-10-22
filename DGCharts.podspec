@@ -1,5 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "DGCharts"
+  s.module_name   = 'DGCharts'
   s.version = "5.1.0"
   s.summary = "DGCharts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)"
   s.homepage = "https://github.com/danielgindi/Charts"
